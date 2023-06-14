@@ -30,6 +30,12 @@ body {
   margin-bottom: 45px;
 }
 
+.wrapper {
+  max-width: 800px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
 .hamburger {
   width: 42px;
   height: 42px;
